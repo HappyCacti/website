@@ -1,1 +1,1 @@
-# We are :simple_smile: :cactus(n)
+We are :simple_smile: :cactus(n)
