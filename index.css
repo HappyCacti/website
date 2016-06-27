@@ -7,8 +7,11 @@
 
 body {
   font-family: 'PT Serif', serif;
-  background: #F8F8F8;
-  color: #222;
+  /*background: #F8F8F8;*/
+  /*color: #222;*/
+  background: #66BE56;
+  color: #fff;
+
   margin: 0px;
   padding: 0px;
 }
