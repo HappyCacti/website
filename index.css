@@ -39,3 +39,12 @@ main {
 p {
   text-align: center;
 }
+
+#lil-convo {
+  margin-top: 2em;
+  display: block;
+  background: #DDD;
+  padding: 1em;
+  border-radius: 1em;
+  text-align: left;
+}
