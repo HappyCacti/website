@@ -19,7 +19,7 @@ body {
 }
 
 main {
-  padding-top: 2em;
+  padding: 2em 1em;
   max-width: 500px;
   text-align: center;
   margin: 0 auto;
@@ -31,17 +31,12 @@ main {
   margin: 1em;
 }
 
-#ending {
-  font-weight: lighter;
-  letter-spacing: 10px;
-}
-
 p {
   text-align: center;
 }
 
 #lil-convo {
-  margin-top: 2em;
+  margin-top: 1em;
   display: block;
   background: #DDD;
   padding: 1em;
